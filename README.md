@@ -7,60 +7,37 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## Sobre o Projeto
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Este repositório é dedicado a explorar as funcionalidades do framework Laravel. Ele é resultado de um curso de 30 dias sobre laravel Laracasts, onde foram abordados conceitos fundamentais e avançados para criar aplicações web robustas e modernas com Laravel.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Funcionalidades Implementadas
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Durante o curso, foi possível implementar as seguintes funcionalidades no Laravel:
 
-## Learning Laravel
+- **Sistema de Rotas**: Configuração de rotas simples e avançadas utilizando o motor de roteamento do Laravel.
+- **ORM Eloquent**: Criação e manipulação de bancos de dados com o Eloquent, incluindo relacionamentos, consultas e migrações.
+- **Migrations**: Gerenciamento e versionamento do esquema do banco de dados.
+- **Filas de Tarefas**: Processamento de jobs em background para melhorar a performance das aplicações.
+- **Autenticação**: Sistema completo de login, registro e recuperação de senha.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## Aprendizados do Curso
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+O curso do Laracasts proporcionou um entendimento sólido das principais ferramentas e metodologias do Laravel, permitindo que eu:
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+- Configure projetos do zero, aplicando as melhores práticas.
+- Gerencie bancos de dados de forma eficiente com Migrations e Seeders.
+- Implemente funcionalidades complexas usando o Eloquent.
+- Crie interfaces seguras e intuitivas com autenticação integrada.
 
-## Laravel Sponsors
+## Próximos Passos
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+Com os conhecimentos adquiridos, os próximos passos incluem:
 
-### Premium Partners
+- Desenvolvimento de projetos reais para ampliar o portfólio.
+- Implementação de APIs RESTful e aplicações SPA com Laravel e React.
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+## Recursos e Links Úteis
 
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+- [Documentação Oficial do Laravel](https://laravel.com/docs)
+- [Laracasts](https://laracasts.com): Plataforma de tutoriais em vídeo sobre Laravel, PHP e tecnologias relacionadas.
